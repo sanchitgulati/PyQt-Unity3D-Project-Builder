@@ -23,7 +23,7 @@ python main.py
 
 ## Demo
 
-[GIF]
+![](https://bitbucket.org/sanchitgulati/pyqt-unity3d-project-builder/raw/9704cc0418183a6f7e2b24ccd9dd80b921049f28/demo.gif)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
